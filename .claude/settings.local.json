@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check flappy_logic.js)",
+      "Bash(node --check layout.js)",
+      "Bash(node --check ferramentas.js)"
+    ]
+  }
+}
